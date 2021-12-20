@@ -1,0 +1,9 @@
+<Material>
+    <Main DepthTest="True" HeightMapScale="0.05" PhysicsMaterial="Rock" Type="SolidDiffuse" />
+    <TextureUnits>
+        <Diffuse AnimFrameTime="" AnimMode="" File="broken_rock.dds" Mipmaps="true" Type="2D" Wrap="Repeat" />
+	<NMap File="broken_rock_nrm.dds" Type="2D" Mipmaps="true" Wrap="Repeat" />
+	 <Specular File="broken_rock_spec.dds" Type="2D" Mipmaps="true" Wrap="Repeat" />
+	<Alpha File="broken_rock.dds" Type="2D" Mipmaps="true" Wrap="Repeat" />
+    </TextureUnits>
+</Material>

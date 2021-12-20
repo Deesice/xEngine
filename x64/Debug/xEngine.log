@@ -1,0 +1,37 @@
+﻿  LINK : не найден или не выполнена сборка C:\Users\1\source\repos\xEngine\x64\Debug\xEngine.exe при последней инкрементной компоновке; выполняется полная компоновка
+LINK : warning LNK4098: библиотека по умолчанию "LIBCMT" конфликтует с использованием других библиотек; используйте /NODEFAULTLIB:library
+LINK : warning LNK4217: Символ "__glewGetUniformLocation", определенный в "glew32s.lib(glew.obj)", импортирован "GameObject.obj" в функции ""public: void __cdecl Shader::SetFloat(char const *,float)" (?SetFloat@Shader@@QEAAXPEBDM@Z)".
+LINK : warning LNK4286: Символ "__glewGetUniformLocation", определенный в "glew32s.lib(glew.obj)", импортирован "Helper.obj".
+LINK : warning LNK4286: Символ "__glewGetUniformLocation", определенный в "glew32s.lib(glew.obj)", импортирован "Light.obj".
+LINK : warning LNK4217: Символ "__glewUniform1f", определенный в "glew32s.lib(glew.obj)", импортирован "GameObject.obj" в функции ""public: void __cdecl Shader::SetFloat(char const *,float)" (?SetFloat@Shader@@QEAAXPEBDM@Z)".
+LINK : warning LNK4286: Символ "__glewUniform1f", определенный в "glew32s.lib(glew.obj)", импортирован "Helper.obj".
+LINK : warning LNK4286: Символ "__glewUniform1f", определенный в "glew32s.lib(glew.obj)", импортирован "Light.obj".
+LINK : warning LNK4217: Символ "__glewUniform1i", определенный в "glew32s.lib(glew.obj)", импортирован "GameObject.obj" в функции ""public: void __cdecl Shader::SetInt(char const *,int)" (?SetInt@Shader@@QEAAXPEBDH@Z)".
+LINK : warning LNK4286: Символ "__glewUniform1i", определенный в "glew32s.lib(glew.obj)", импортирован "Light.obj".
+LINK : warning LNK4217: Символ "__glewUniform3f", определенный в "glew32s.lib(glew.obj)", импортирован "Helper.obj" в функции ""public: void __cdecl Shader::SetVector3(char const *,struct glm::vec<3,float,0>)" (?SetVector3@Shader@@QEAAXPEBDU?$vec@$02M$0A@@glm@@@Z)".
+LINK : warning LNK4217: Символ "__glewBindBuffer", определенный в "glew32s.lib(glew.obj)", импортирован "Level.obj" в функции ""public: void __cdecl Mesh::UpdateIBO(void)" (?UpdateIBO@Mesh@@QEAAXXZ)".
+LINK : warning LNK4286: Символ "__glewBindBuffer", определенный в "glew32s.lib(glew.obj)", импортирован "Model.obj".
+LINK : warning LNK4217: Символ "__glewBufferData", определенный в "glew32s.lib(glew.obj)", импортирован "Level.obj" в функции ""public: void __cdecl Mesh::UpdateIBO(void)" (?UpdateIBO@Mesh@@QEAAXXZ)".
+LINK : warning LNK4286: Символ "__glewBufferData", определенный в "glew32s.lib(glew.obj)", импортирован "Model.obj".
+LINK : warning LNK4217: Символ "__glewCompressedTexImage2D", определенный в "glew32s.lib(glew.obj)", импортирован "Model.obj" в функции ""public: static unsigned int __cdecl Graphic::AddTexture(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?AddTexture@Graphic@@SAIV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)".
+LINK : warning LNK4217: Символ "__glewGenBuffers", определенный в "glew32s.lib(glew.obj)", импортирован "Model.obj" в функции ""public: void __cdecl Mesh::setupMesh(void)" (?setupMesh@Mesh@@QEAAXXZ)".
+LINK : warning LNK4217: Символ "__glewEnableVertexAttribArray", определенный в "glew32s.lib(glew.obj)", импортирован "Model.obj" в функции ""public: void __cdecl Mesh::setupMesh(void)" (?setupMesh@Mesh@@QEAAXXZ)".
+LINK : warning LNK4217: Символ "__glewVertexAttribPointer", определенный в "glew32s.lib(glew.obj)", импортирован "Model.obj" в функции ""public: void __cdecl Mesh::setupMesh(void)" (?setupMesh@Mesh@@QEAAXXZ)".
+LINK : warning LNK4217: Символ "__glewDrawElementsInstanced", определенный в "glew32s.lib(glew.obj)", импортирован "Model.obj" в функции ""public: void __cdecl Mesh::Draw(class Shader *)" (?Draw@Mesh@@QEAAXPEAVShader@@@Z)".
+LINK : warning LNK4217: Символ "__glewVertexAttribDivisor", определенный в "glew32s.lib(glew.obj)", импортирован "Model.obj" в функции ""public: void __cdecl Mesh::setupMesh(void)" (?setupMesh@Mesh@@QEAAXXZ)".
+LINK : warning LNK4217: Символ "__glewBindVertexArray", определенный в "glew32s.lib(glew.obj)", импортирован "Model.obj" в функции ""public: void __cdecl Mesh::Draw(class Shader *)" (?Draw@Mesh@@QEAAXPEAVShader@@@Z)".
+LINK : warning LNK4217: Символ "__glewGenVertexArrays", определенный в "glew32s.lib(glew.obj)", импортирован "Model.obj" в функции ""public: void __cdecl Mesh::setupMesh(void)" (?setupMesh@Mesh@@QEAAXXZ)".
+LINK : warning LNK4217: Символ "__glewAttachShader", определенный в "glew32s.lib(glew.obj)", импортирован "Shader.obj" в функции ""public: __cdecl Shader::Shader(char const *,char const *)" (??0Shader@@QEAA@PEBD0@Z)".
+LINK : warning LNK4217: Символ "__glewCompileShader", определенный в "glew32s.lib(glew.obj)", импортирован "Shader.obj" в функции ""public: __cdecl Shader::Shader(char const *,char const *)" (??0Shader@@QEAA@PEBD0@Z)".
+LINK : warning LNK4217: Символ "__glewCreateProgram", определенный в "glew32s.lib(glew.obj)", импортирован "Shader.obj" в функции ""public: __cdecl Shader::Shader(char const *,char const *)" (??0Shader@@QEAA@PEBD0@Z)".
+LINK : warning LNK4217: Символ "__glewCreateShader", определенный в "glew32s.lib(glew.obj)", импортирован "Shader.obj" в функции ""public: __cdecl Shader::Shader(char const *,char const *)" (??0Shader@@QEAA@PEBD0@Z)".
+LINK : warning LNK4217: Символ "__glewDeleteShader", определенный в "glew32s.lib(glew.obj)", импортирован "Shader.obj" в функции ""public: __cdecl Shader::Shader(char const *,char const *)" (??0Shader@@QEAA@PEBD0@Z)".
+LINK : warning LNK4217: Символ "__glewGetProgramInfoLog", определенный в "glew32s.lib(glew.obj)", импортирован "Shader.obj" в функции ""public: __cdecl Shader::Shader(char const *,char const *)" (??0Shader@@QEAA@PEBD0@Z)".
+LINK : warning LNK4217: Символ "__glewGetProgramiv", определенный в "glew32s.lib(glew.obj)", импортирован "Shader.obj" в функции ""public: __cdecl Shader::Shader(char const *,char const *)" (??0Shader@@QEAA@PEBD0@Z)".
+LINK : warning LNK4217: Символ "__glewGetShaderInfoLog", определенный в "glew32s.lib(glew.obj)", импортирован "Shader.obj" в функции ""public: __cdecl Shader::Shader(char const *,char const *)" (??0Shader@@QEAA@PEBD0@Z)".
+LINK : warning LNK4217: Символ "__glewGetShaderiv", определенный в "glew32s.lib(glew.obj)", импортирован "Shader.obj" в функции ""public: __cdecl Shader::Shader(char const *,char const *)" (??0Shader@@QEAA@PEBD0@Z)".
+LINK : warning LNK4217: Символ "__glewLinkProgram", определенный в "glew32s.lib(glew.obj)", импортирован "Shader.obj" в функции ""public: __cdecl Shader::Shader(char const *,char const *)" (??0Shader@@QEAA@PEBD0@Z)".
+LINK : warning LNK4217: Символ "__glewShaderSource", определенный в "glew32s.lib(glew.obj)", импортирован "Shader.obj" в функции ""public: __cdecl Shader::Shader(char const *,char const *)" (??0Shader@@QEAA@PEBD0@Z)".
+LINK : warning LNK4217: Символ "__glewUseProgram", определенный в "glew32s.lib(glew.obj)", импортирован "Shader.obj" в функции ""public: void __cdecl Shader::Use(void)" (?Use@Shader@@QEAAXXZ)".
+glew32s.lib(glew.obj) : warning LNK4099: "vc120.pdb" PDB не найден с "glew32s.lib(glew.obj)" или на "C:\Users\1\source\repos\xEngine\x64\Debug\vc120.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+  xEngine.vcxproj -> C:\Users\1\source\repos\xEngine\x64\Debug\xEngine.exe

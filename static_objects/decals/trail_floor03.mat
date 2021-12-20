@@ -1,0 +1,6 @@
+<Material>
+    <Main Type="Decal" BlendMode="Add" PhysicsMaterial="Dirt" UseAlpha="False" DepthTest="True" Value="30"/>
+    <TextureUnits>
+        <Diffuse AnimFrameTime="" AnimMode="" File="trail_floor03.dds" Mipmaps="true" Type="2D" Wrap="Repeat" />
+    </TextureUnits>
+</Material>
